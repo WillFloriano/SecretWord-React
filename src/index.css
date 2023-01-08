@@ -29,3 +29,9 @@ button:hover{
 .start{
   margin-top: 180px;
 }
+
+@media (max-width: 500px) {
+  .game{
+    max-width: 100%;
+  }
+}
